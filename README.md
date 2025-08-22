@@ -12,3 +12,5 @@
 - GitHub
 - Agnostic or cheapest real-time streaming
 - Docker
+- Tagging (cost tracking)
+- Security emphasis
