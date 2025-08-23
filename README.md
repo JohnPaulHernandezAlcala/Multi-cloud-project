@@ -13,4 +13,4 @@
 - Agnostic or cheapest real-time streaming
 - Docker
 - Tagging (cost tracking)
-- Security emphasis
+- Security emphasis (AWS - KMS, lifecycle, GuardDuty, CloudTrail, IAM)
